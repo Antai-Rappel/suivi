@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirection...</title>
+  <script>
+    setTimeout(() => {
+      window.location.href = "https://ton-lien-final.com";
+    }, 3000);
+  </script>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; padding-top: 100px;">
+  <h2>Redirection en cours...</h2>
+  <p>Vous allez être redirigé dans 3 secondes.</p>
+  <p>Si cela ne fonctionne pas, <a href="https://sncommando.com/urafi.php">cliquez ici</a>.</p>
+</body>
+</html>
